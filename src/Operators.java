@@ -29,7 +29,10 @@ public class Operators {
 //
 //        System.out.println(variable);
 
+
+
         //Relational operators
+
         int number1 = 1;
         int number2 = 2;
 
@@ -45,13 +48,17 @@ public class Operators {
 
         System.out.println("number1 is bigger than number2? " + yesNo);
 
+
     //Equals → comparison of contents, whether they are equal
+
         String name1 = "Nathalie";
         String name2 = new String("Nathalie");
 
         System.out.println(name1.equals(name2));
 
+
         //Logical Operators
+
         boolean condition1 = true;
         boolean condition2 = true;
 
